@@ -670,17 +670,17 @@ a, a:visited, a:link {
 
 @media (max-height: 480px) and (min-width: 400px) {
   .bgStatus .currentBG {
-    font-size: 110px;
-    line-height: 60px;
+    font-size: 150px;
+    line-height: 80px;
   }
 
   .bgStatus .currentBG.bg-limit, .bgStatus .currentBG.icon-hourglass {
-    font-size: 70px;
+    font-size: 150px;
   }
 
   .bgStatus .pill.direction {
-    font-size: 50px;
-    line-height: 50px;
+    font-size: 75px;
+    line-height: 75px;
   }
 
   .bgStatus .majorPills {
