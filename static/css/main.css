@@ -501,6 +501,7 @@ a, a:visited, a:link {
   .bgStatus {
     width: 50%;
     padding: 0 0 20px 0;
+    float:left;
   }
 
   .pill.rawbg em {
@@ -669,7 +670,7 @@ a, a:visited, a:link {
 
 @media (max-height: 480px) and (min-width: 400px) {
   .bgStatus .currentBG {
-    font-size: 70px;
+    font-size: 110px;
     line-height: 60px;
   }
 
@@ -695,6 +696,7 @@ a, a:visited, a:link {
   .status {
     font-size: 50px;
     padding-top: 5px;
+    float:left;
   }
 
   .statusPills {
